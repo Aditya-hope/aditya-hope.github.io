@@ -2,7 +2,7 @@
 
 Personal portfolio site showcasing my web scraping and data automation projects.
 
-🔗 Live site: https://adityabehera.github.io
+🔗 Live site: https://aditya-hope.github.io
 
 ## What I do
 I build web scrapers that extract structured data from static and 
